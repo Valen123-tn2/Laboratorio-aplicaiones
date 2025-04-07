@@ -1,0 +1,52 @@
+h1 {
+   color: aquamarine;
+   text-align: center;  
+}
+
+h2 {
+    color: blue;
+    text-align: left;
+    
+}
+
+h3 {
+    color: blueviolet
+}
+
+h4 {
+    color:chocolate
+}
+
+h5 {
+    color:cadetblue
+}
+
+h6 {
+    color:cyan
+}
+
+span {
+    color:aqua;
+}
+p {
+    font-family:cursive;  
+}
+
+ul{ 
+    color: cornflowerblue;
+    list-style:circle;
+    font-size:medium;
+}
+
+ol{
+    color:cadetblue;
+}
+
+a{
+    color: cadetblue;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
