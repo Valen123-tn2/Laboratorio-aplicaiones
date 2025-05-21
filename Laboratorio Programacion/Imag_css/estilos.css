@@ -1,0 +1,46 @@
+body{
+    margin: 20px;
+    background-color:beige;
+}
+h1{
+    text-align: center;
+    background-color: pink;
+    margin-bottom: 20px;
+}
+img{
+    max-width: 100%;
+    width: 350px;
+    height: 300px;
+    display: block;
+}
+.izquierda{
+    margin-top: 0;
+    margin-right: auto;
+    margin-left: 0;
+    float: left;
+}
+.Centro{
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.Derecha{
+    margin-left: auto;
+    margin-right: 0;
+    text-align: right;
+}
+.texto1{
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+.contenedor1{
+    max-width: 1000px;
+    width: 70%;
+    margin: 15px;
+}
+  

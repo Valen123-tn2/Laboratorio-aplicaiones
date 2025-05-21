@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(250, 151, 184);
+    text-align: center;
+}
+img{
+    width: 800px;
+    height: 533px;
+    border: 4px solid purple;
+    border-radius: 5%;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
